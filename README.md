@@ -10,3 +10,4 @@ Aplikasi yang berfungsi untuk memanajemen pemberian dan pendaftaran antrian semb
 - Ilyassa Putra [2402741]
 - Muhamad Iqbal Ramadhan [2408061]
 
+ceklist
